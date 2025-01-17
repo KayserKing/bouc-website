@@ -13,7 +13,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         highlight: "var(--purple)",
+      },
+      backgroundImage: {
         purplegreen: "var(--bluegreen-gradient)",
+        bluepurple: "var( --bluepurple-gradient)",
+        yellowgreen: "var( --yellowgreen-gradient)",
       },
     },
   },
