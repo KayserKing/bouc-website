@@ -53,6 +53,6 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
-header li {
+.header li {
   @apply hover:text-highlight transition-all cursor-pointer flex gap-1 items-center;
 }
