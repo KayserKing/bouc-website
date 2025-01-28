@@ -1,5 +1,5 @@
 import React from "react";
-import { Navbar, Banner, Services, Technologies } from "./sections";
+import { Navbar, Banner, Services, Technologies, Processes } from "./sections";
 
 const Landing = () => {
   return (
@@ -7,7 +7,7 @@ const Landing = () => {
       <Navbar />
       <Banner />
       <Services />
-      <Technologies />
+      <Processes />
       <Technologies />
     </div>
   );
